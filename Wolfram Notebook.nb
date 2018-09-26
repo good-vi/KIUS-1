@@ -196,7 +196,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAsDb/ByCQ+yQ=
    BoxForm`ImageTag["Byte", ColorSpace -> "RGB", Interleaving -> True],
    Selectable->False],
   DefaultBaseStyle->"ImageGraphics",
-  ImageSize->Automatic,
+  ImageSize->{239.3749999999938, Automatic},
   ImageSizeRaw->{390, 383},
   PlotRange->{{0, 390}, {0, 
    383}}]], "Input",ExpressionUUID->"77df1f9c-980d-422f-a5c8-f7403c871f07"]], \
@@ -3022,8 +3022,8 @@ Cell[BoxData[
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{958, 1118},
-WindowMargins->{{Automatic, -7}, {Automatic, 0}},
+WindowSize->{1920, 1127},
+WindowMargins->{{-8, Automatic}, {Automatic, -8}},
 PrivateNotebookOptions->{"FileOutlineCache"->False},
 Magnification:>1.6 Inherited,
 FrontEndVersion->"11.2 for Microsoft Windows (64-bit) (September 10, 2017)",
